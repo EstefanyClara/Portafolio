@@ -6,7 +6,7 @@ Este es mi portafolio en el que tengo conclusiones y reflexiones sobre las clase
 ## UNIDAD TEMÁTICA 1.- TRANSICIÓN A JAVA 
 
 
-### Martes 22 de Marzo
+## Martes 22 de Marzo
 
 Si bien hace una semana empezamos, las primeras clases fueron una introducción a la materia, desde lo que vamos a dar en el transcurso del semestre hasta como se nos va a calificar. 
 Creo que lo más importante a destacar sobre la primera semana es que: 
